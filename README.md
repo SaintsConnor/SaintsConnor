@@ -7,4 +7,11 @@
 Community's I'm apart of:
 - SaintsSec
 
+What I am currently working on!
+- Toolbar ( https://www.github.com/SaintsConnor/ToolBar )
+- PythonRemote (Private)
+- PythonTexas (Private)
+- SSG Code (See https://www.github.com/SSGOrg )
+- Other Projects (See https://www.github.com/SaintsConnor/Work )
+
 
