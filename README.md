@@ -9,7 +9,7 @@ Community's I'm apart of:
 
 What I am currently working on!
 - Toolbar ( https://www.github.com/SaintsConnor/ToolBar )
-- PythonRemote (Private)
+- PythonRemote ( https://github.com/SaintsConnor/PythonRemote )
 - PythonTexas (Private)
 - CookedAccel (Private)
 - SSG Code (See https://www.github.com/SSGOrg )
