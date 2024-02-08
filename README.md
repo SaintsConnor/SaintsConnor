@@ -9,7 +9,8 @@ I am a 18 year old student at my local college in the UK, studying IT. In my fre
 I also partake in other CTF events with Various Groups, and often place within the top 15% at a minimum. Over my time as a competitor I have learned a large amount, one such example is within the 2023 cyber apocolypse ran by Hackthebox, is when I personally developed and successfully executed a buffer overflow script to obtain remote code execution. 
 
 Community's I'm apart of:
-- SaintsSec
+- AskerDyne
+- Pesters.UK
 
 What I am currently working on!
 - Toolbar ( https://www.github.com/SaintsConnor/ToolBar )
